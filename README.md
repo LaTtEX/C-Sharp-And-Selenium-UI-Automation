@@ -4,8 +4,8 @@ Demo repository using C# and Selenium, along with PageObjects
 This repository contains the ff:
 
  - **Automation Practice Solution** - This solution contains a project demonstrating UI automation tests written in C# and using Selenium. Tests are run against the http://www.automationpractice.com sample web application.
- -- **AutomationPracticeConventional.csproj** - Contains a test project that demonstrates the conventional approach to using Selenium with MS Test.
- -- **AutomationPracticeWithPageObject.csproj** - Contains a test project that uses more advanced PageObject constructs to represent a web page as a class/object, with unit tests written against those page objects.
+   - **AutomationPracticeConventional.csproj** - Contains a test project that demonstrates the conventional approach to using Selenium with MS Test.
+   -  **AutomationPracticeWithPageObject.csproj** - Contains a test project that uses more advanced PageObject constructs to represent a web page as a class/object, with unit tests written against those page objects.
  
 More information *will be provided later*.
 
